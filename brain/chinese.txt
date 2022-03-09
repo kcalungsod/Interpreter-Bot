@@ -1,0 +1,282 @@
+one|yi
+two|er
+three|san
+four|si
+five|wu
+six|liu
+seven|qi
+eight|ba
+nine|jiu
+ten|shi
+twenty|ershi
+thirty|sanshi
+forty|sishi
+fifty|wushi
+sixty|liushi
+seventy|qishi
+eighty|bashi
+ninety|jiushi
+one hundred|yibai
+one thousand|yiqian
+january|yi yue
+february|er yue
+march|san yue
+april|si yue
+may|wu yue
+june|liu yue
+july|qi yue
+august|ba yue
+september|jiu yue
+october|shi yue
+november|shiyi yue
+december|shi'er yue
+monday|zhouyi
+tuesday|zhou'er
+wednesday|zhousan
+thursday|zhou si
+friday|xingqiwu
+saturday|zhou liu
+sunday|xingqiri
+morning|zaochen
+afternoon|xiawu
+evening|wanshang
+night|yewan
+midnight|wuye
+day|ri
+hour|xiaoshi
+minute|fenzhong
+second|di er
+time|shijian
+tomorrow|mingtian
+yesterday|zuotian
+earlier|zao xie shihou
+later|zhihou
+happy|kuaile de
+sad|shangxin
+angry|shengqi de
+mad|fengkuang de
+afraid|haipa
+disgusting|exin de
+pain|tengtong
+sick|shengbing de
+chair|yizi
+mirror|jingzi
+curtain|chuanglian
+window|chuanghu
+rug|xiao ditan
+water|shui
+plate|panzi
+spoon|shaozi
+fork|chazi
+knife|dao
+comb|shuzi
+money|qian
+father|fuqin
+mother|muqin
+brother|xiongdi
+sister|jiejie
+youngest|zui nianqing de
+eldest|zui nian zhang de
+uncle|shushu
+aunt|ayi
+cousin|biao ge
+friend|pengyou
+grandmother|zumu
+grandfather|zufu
+lover|qingren
+teacher|laoshi
+student|xuesheng
+guard|jingwei
+me|wo
+i|wo
+my|wo de
+you|ni
+your|ni de
+us|women
+they|nimen
+them|tamen
+we|women
+he|ta
+she|ta
+it|ta
+is|shi
+are|shi
+school|xuexiao
+shopping mall|gouwu zhong xin
+mall|gouwu zhong xin
+store|dianpu
+house|fangzi
+office|bangongshi
+road|lu
+playground|caochang
+what|shenme
+where|zai nali
+who|shei
+whose|shei de
+why|weisheme
+how|ruhe
+how much|duo shao
+how far|duo yuan
+how often|duo chang
+which one|na yige
+person|ren
+thing|shiwu
+animal|dongwu
+place|difang
+feeling|ganjue
+food|shiwu
+rice|baifan
+coffee|kafei
+tea|cha
+milk|niunai
+alcohol|jiujing
+meat|rou
+pork|zhurou
+beef|niurou
+fish|yu
+chicken|ji
+cow|nainiu
+horse|ma
+pig|zhu
+salty|xian
+sour|suan de
+sweet|tian de
+spicy|xinla de
+tasteless|wuwei
+hot|re de
+cold|hanleng de
+beautiful|meili de
+handsome|yingjun de
+ugly|choulou de
+like|xihuan
+real|zenshi de
+fake|weizao de
+easy|jiandan
+hard|nan de
+long|zhang
+short|duan de
+excess|guoling de
+lack|queshao
+go straight|zhixing
+turn left|zuo zhuan
+turn right|you zhuan
+get in|jinlai
+get on|jinxing
+get off|xia che
+transfer|zhuanyi
+direction|fangxiang
+east|dong
+west|xi
+south|nan
+north|bei
+there|nali
+here|zheli
+at the corner|zai jiaoluo
+next to|pangbian
+behind|zai houmian
+in front|zai qian
+up|xiangshang
+down|xia
+hi|ni hao
+hello|ni hao
+good morning|zaoshang hao
+good afternoon|xiawu hao
+good evening|wanshang hao
+good night|wan'an
+thank you|xiexie
+thank you very much|feichang ganxie nin
+you are welcome|bu keqi
+you're welcome|bu keqi
+i love you|wo ai ni
+i like you|wo xihun ni
+sorry|duibiqi
+goodbye|zaijian
+help|bangzhu
+never mind|meiguanxi
+yes|shi
+no|bu shi
+called|jiao
+intimate|qinmi de
+rival|jingzheng duishou
+ideal|li xiang
+heart|xin
+trust|fangxin
+worried|danxin
+care|guanxin
+faith|xinxin
+secret|mimi
+love|ai
+delicious|hao chi
+bad|bu hao
+today|jitian
+live|juzhu
+glasses|yanjing
+can you|ke yi ma
+i can|ke yi
+come on|jia you
+male protagonist|nan zhu jue
+female protagonist|nu zhu jue
+how are you|ni hao ma?
+how are you?|ni hao ma?
+what is your name|ni jiao shenme mingzi?
+what is your name?|ni jiao shenme mingzi?
+what's your name|ni jiao shenme mingzi?
+what's your name?|ni jiao shenme mingzi?
+where do you live|ni zhu zai nali
+where do you live?|ni zhu zai nali
+where do you come from|ni cong nali lai de?
+where do you come from?|ni cong nali lai de?
+what time is it|xianzai shi ji dian?
+what time is it?|xianzai shi ji dian?
+how old are you|ni jinnian duoda?
+how old are you?|ni jinnian duoda?
+how many siblings do you have|ni you dioshao xiongdi jiemei?
+how many siblings do you have?|ni you dioshao xiongdi jiemei?
+where do you work|ni zai nali gongzuo?
+where do you work?|ni zai nali gongzuo?
+where do you study|ni zai nali xuexi?
+where do you study?|ni zai nali xuexi?
+how can i get there|wo yao zenme qu na'er?
+how can i get there?|wo yao zenme qu na'er?
+where are you|ni zai na?
+where are you?|ni zai na?
+where are we|women zai nali?
+where are we?|women zai nali?
+what is the name of this place|zhege difang jiao shenme mingzi?
+what is the name of this place?|zhege difang jiao shenme mingzi?
+what's the name of this place|zhege difang jiao shenme mingzi?
+what's the name of this place?|zhege difang jiao shenme mingzi?
+where should we go|women yinggai qu nali?
+where should we go?|women yinggai qu nali?
+when do we leave|women shenme shibou likai?
+when do we leave?|women shenme shibou likai?
+when is your birthday|ni de shengri shi shenme shihou?
+when is your birthday?|ni de shengri shi shenme shihou?
+what time do you go home|ni shenme shihou hui jia?
+what time do you go home?|ni shenme shihou hui jia?
+how long does it take|doujiu shijan?
+how long does it take?doujiu shijan?
+nice to meet you|hen gaoxing jian dao ni
+take care|cheng qiche
+i am hungry|wo ele
+i'm hungry|wo ele
+i like it|wo xihuan
+i don't have money|wo meiyou qian
+i do not have money|wo meiyou qian
+i have class tomorrow|wo mingtian you ke
+i am happy|wo hen kaixin
+i don't know|wo bu zhidao
+i do not know|wo bu zhidao
+i know|wo zhidao
+
+
+
+
+
+
+
+
+
+
+
+English|Meiguo (under validation)

@@ -1,0 +1,45 @@
+# Project: Interpreter Bot
+# Makefile created by Dev-C++ 5.11
+
+CPP      = g++.exe
+CC       = gcc.exe
+WINDRES  = windres.exe
+RES      = Interpreter_Bot_private.res
+OBJ      = main.o errors.o menu.o filipinotranslator.o chinesetranslator.o $(RES)
+LINKOBJ  = main.o errors.o menu.o filipinotranslator.o chinesetranslator.o $(RES)
+LIBS     = -L"C:/Program Files (x86)/Dev-Cpp/MinGW64/lib" -L"C:/Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/lib" -static-libgcc
+INCS     = -I"C:/Program Files (x86)/Dev-Cpp/MinGW64/include" -I"C:/Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/include" -I"C:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include"
+CXXINCS  = -I"C:/Program Files (x86)/Dev-Cpp/MinGW64/include" -I"C:/Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/include" -I"C:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include" -I"C:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++"
+BIN      = "Interpreter Bot.exe"
+CXXFLAGS = $(CXXINCS) 
+CFLAGS   = $(INCS) 
+RM       = rm.exe -f
+
+.PHONY: all all-before all-after clean clean-custom
+
+all: all-before $(BIN) all-after
+
+clean: clean-custom
+	${RM} $(OBJ) $(BIN)
+
+$(BIN): $(OBJ)
+	$(CPP) $(LINKOBJ) -o $(BIN) $(LIBS)
+
+main.o: main.cpp
+	$(CPP) -c main.cpp -o main.o $(CXXFLAGS)
+
+errors.o: errors.cpp
+	$(CPP) -c errors.cpp -o errors.o $(CXXFLAGS)
+
+menu.o: menu.cpp
+	$(CPP) -c menu.cpp -o menu.o $(CXXFLAGS)
+
+filipinotranslator.o: filipinotranslator.cpp
+	$(CPP) -c filipinotranslator.cpp -o filipinotranslator.o $(CXXFLAGS)
+
+chinesetranslator.o: chinesetranslator.cpp
+	$(CPP) -c chinesetranslator.cpp -o chinesetranslator.o $(CXXFLAGS)
+
+Interpreter_Bot_private.res: Interpreter_Bot_private.rc 
+	$(WINDRES) -i Interpreter_Bot_private.rc --input-format=rc -o Interpreter_Bot_private.res -O coff 
+

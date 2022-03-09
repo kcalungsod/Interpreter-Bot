@@ -1,0 +1,272 @@
+one|isa
+two|dalawa
+three|tatlo
+four|apat
+five|lima
+six|anim
+seven|pito
+eight|walo
+nine|siyam
+ten|sampu
+twenty|dalawampu
+thirty|tatlumpu
+forty|apatnapu
+fifty|limampu
+sixty|animnapu
+seventy|pitumpu
+eighty|walumpu
+ninety|siyamnapu
+one hundred|isang daan
+one thousand|isang libo
+january|enero
+february|pebrero
+march|marso
+april|abril
+may|mayo
+june|hunyo
+july|hulyo
+august|agosto
+september|setyembre
+october|oktubre
+november|nobyembre
+december|disyembre
+monday|lunes
+tuesday|martes
+wednesday|miyerkules
+thursday|huwebes
+friday|biyernes
+saturday|sabado
+sunday|linggo
+morning|umaga
+noon|tanghali
+afternoon|hapon
+evening|gabi
+night|gabi
+midnight|hatinggabi
+day|araw
+hour|oras
+minute|minuto
+second|segundo
+time|oras
+tomorrow|bukas
+yesterday|kahapon
+earlier|kanina
+later|mamaya
+happy|masaya
+sad|malungkot
+angry|galit
+afraid|takot
+disgusting|kadiri
+pain|sakit
+sick|sakit
+chair|upuan
+mirror|salamin
+curtain|kurtina
+window|bintana
+rug|basahan
+water|tubig
+plate|pinggan
+spoon|kutsara
+fork|tinidor
+knife|kutsilyo
+comb|suklay
+money|pera
+father|tatay
+mother|nanay
+brother|kuya
+sister|ate
+youngest|bunso
+eldest|panganay
+uncle|tito
+aunt|tita
+cousin|pinsan
+friend|kaibigan
+grandmother|lola
+grandfather|lolo
+lover|kasintahan
+teacher|guro
+student|mag-aaral
+guard|guwardiya
+me|ako
+i|ako
+my|aking
+you|ikaw
+your|iyong
+us|tayo
+they|sila
+them|sila
+we|kami
+he|siya
+she|siya
+it|ito
+is|ay
+are|ay
+school|paaralan
+shopping mall|pamilihan
+mall|pamilihan
+store|tindahan
+house|bahay
+office|opisina
+road|kalsada
+playground|palaruan
+what|ano
+where|saan
+who|sino
+whose|kanino
+why|bakit
+how|paano
+how much|magkano
+how far|gaano kalayo
+how often|gaano kadalas
+which one|alin
+person|tao
+thing|bagay
+animal|hayop
+place|lugar
+feeling|pakiramdam
+food|pagkain
+rice|kanin
+coffee|kape
+tea|tsaa
+milk|gatas
+alcohol|alkohol
+meat|karne
+pork|karne ng baboy
+beef|karne ng baka
+fish|isda
+chicken|manok
+cow|baka
+horse|kabayo
+pig|baboy
+salty|maalat
+sour|maasim
+sweet|matamis
+spicy|maanghang
+tasteless|matabang
+hot|mainit
+cold|malamig
+beautiful|maganda
+handsome|gwapo
+ugly|panget
+like|gusto
+real|totoo
+fake|peke
+easy|madali
+hard|mahirap
+long|mahaba
+short|maikli
+excess|sobra
+lack|kulang
+go straight|dumiretso
+turn left|liko sa kaliwa
+turn right|liko sa kanan
+get in|pasok
+get on|sakay
+get off|bumaba
+transfer|lipat
+direction|direksyon
+east|silangan
+west|kanluran
+south|timog
+north|hilaga
+there|doon
+here|dito
+at the corner|sa sulok
+next to|sunod sa
+behind|likod
+in front|harap
+up|taas
+down|baba
+hi|kumusta
+hello|kumusta
+good morning|magandang umaga
+good afternoon|magadang hapon
+good evening|magandang gabi
+good night|magandang gabi
+thank you|salamat
+thank you very much|maraming salamat
+you are welcome|walang anuman
+you're welcome|walang anuman
+i love you|mahal kita
+i like you|gusto kita
+sorry|patawad
+goodbye|paalam
+help|tulong
+never mind|walang problema
+yes|oo
+no|hindi
+called|tinawag
+intimate|matalik
+rival|karibal
+ideal|mainam
+heart|puso
+trust|tiwala
+worried|nag-alala
+care|alaga
+faith|pananampalataya
+secret|sikreto
+love|pagmamahal
+delicious|masaraap
+bad|masama
+today|ngayon
+live|mabuhay
+glasses|salamin
+can you|kaya mo ba?
+can you?|kaya mo ba?
+i can|kaya ko
+come on|halika na
+male protagonist|bidang lalaki
+female protagonist|bidang babae
+how are you|kumusta ka?
+how are you?|kumusta ka?
+what is your name|ano ang pangalan mo?
+what is your name?|ano ang pangalan mo?
+what's your name|ano ang pangalan mo?
+what's your name?|ano ang pangalan mo?
+where do you live|saan ka nakatira?
+where do you live?|saan ka nakatira?
+where do you come from|saan ka nanggaling?
+where do you come from?|saan ka nanggaling?
+what time is it|anong oras na?
+what time is it?|anong oras na?
+how old are you|ilang taon ka na?
+how old are you?|ilang taon ka na?
+how many siblings do you have|ilan ang mga kapatid mo?
+how many siblings do you have?|ilan ang mga kapatid mo?
+where do you work|saan ka nagtatrabaho?
+where do you work?|saan ka nagtatrabaho?
+where do you study|saan ka nag-aaral?
+where do you study?|saan ka nag-aaral?
+how can i get there|paano ako makakarating doon?
+how can i get there?|paano ako makakarating doon?
+where are you|nasaan ka?
+where are you?|nasaan ka?
+where are we|nasaan tayo?
+where are we?|nasaan tayo?
+what is the name of this place|ano ang pangalan ng lugar na ito?
+what's the name of this place|ano ang pangalan ng lugar na ito?
+what's the name of this place?|ano ang pangalan ng lugar na ito?
+what is the name of this place?|ano ang pangalan ng lugar na ito?
+where should we go|saan tayo pupunta?
+where should we go?|saan tayo pupunta?
+when do we leave|kailan tayo aalis?
+when do we leave?|kailan tayo aalis?
+when is your birthday|kailan ang iyong kaarawan?
+when is your birthday?|kailan ang iyong kaarawan?
+what time do you go home|anong oras ka umuuwi?
+what time do you go home?|anong oras ka umuuwi?
+how long does it take|gaano ito katagal?
+how long does it take?|gaano ito katagal?
+nice to meet you|ikinagagalak kitang makilala
+take care|ingat
+i am hungy|ako ay nagugutom
+i'm hungry|ako ay nagugutom
+i like it|gusto ko ito
+i don't have money|wala akong pera
+i do not have money|wala akong pera
+i have class tomorrow|mayroon akong klase bukas
+i am happy|masaya ako
+i don't know|hindi ko alam
+i do not know|hindi ko alam
+i know|alam ko
+sea|dagat (under validation)
